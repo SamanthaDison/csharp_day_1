@@ -1,0 +1,15 @@
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.csproj.AssemblyReference.cache
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.AssemblyInfoInputs.cache
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.AssemblyInfo.cs
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.csproj.CoreCompileInputs.cache
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.dll
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/ref/csharp_day_1.dll
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.pdb
+/Users/samanthadison/source/codeworks/csharp_day_1/bin/Debug/net6.0/csharp_day_1
+/Users/samanthadison/source/codeworks/csharp_day_1/bin/Debug/net6.0/csharp_day_1.deps.json
+/Users/samanthadison/source/codeworks/csharp_day_1/bin/Debug/net6.0/csharp_day_1.runtimeconfig.json
+/Users/samanthadison/source/codeworks/csharp_day_1/bin/Debug/net6.0/csharp_day_1.dll
+/Users/samanthadison/source/codeworks/csharp_day_1/bin/Debug/net6.0/ref/csharp_day_1.dll
+/Users/samanthadison/source/codeworks/csharp_day_1/bin/Debug/net6.0/csharp_day_1.pdb
+/Users/samanthadison/source/codeworks/csharp_day_1/obj/Debug/net6.0/csharp_day_1.genruntimeconfig.cache
